@@ -1,0 +1,9 @@
+<div class='split-container'>
+	<div class='split-actions'>
+		<div class='split-paste-container'><span class='split-paste'>Paste</span></div>
+		<div class='split-split-container'><span class='split-split'>Split</span></div>
+	</div>
+	<div class='split-textarea-container'>
+		<textarea class='split-textarea' rows=6>Enter text here or click paste</textarea>
+	</div>
+</div>
